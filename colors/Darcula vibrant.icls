@@ -1,13 +1,13 @@
 <scheme name="Darcula vibrant" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.25" />
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-07-27T20:10:24</property>
+    <property name="created">2017-07-27T20:13:10</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.2.0.0</property>
-    <property name="modified">2017-07-27T20:10:34</property>
+    <property name="modified">2017-07-27T20:13:12</property>
     <property name="originalScheme">Darcula copy</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="LINE_NUMBERS_COLOR" value="94989b" />
